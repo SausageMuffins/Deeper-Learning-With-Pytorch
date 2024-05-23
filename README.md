@@ -10,7 +10,7 @@ UPDATES:
 
 ## File Structure
 The expected file structure of this repository is as follows:
-
+```
 Deeper-Learning-With-Pytorch/
 ├── data/
 │   ├── MNIST
@@ -22,6 +22,7 @@ Deeper-Learning-With-Pytorch/
 │   └── …
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
