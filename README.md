@@ -4,6 +4,7 @@ This project implements various neural networks in past research using Pytorch. 
 Hopefully this repository would be helpful as a reference to current and future students or just anybody that is curious on how the various neural networks can be implemented using Pytorch.
 
 UPDATES:
+- 2024 May 28: I have udpated the requirements.txt and added my implementation for the multi-layer-perceptron (MLP) neural network.
 - 2024 May 23: I have updated the README.md for easy installation and the expected file structure in the future. The first model to be implemented will be MLP in the coming week.
 
 ---
