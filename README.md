@@ -7,6 +7,11 @@ UPDATES:
 - 2024 May 28: I have udpated the requirements.txt and added my implementation for the multi-layer-perceptron (MLP) neural network.
 - 2024 May 23: I have updated the README.md for easy installation and the expected file structure in the future. The first model to be implemented will be MLP in the coming week.
 
+**DISCLAIMER:**
+I am just another curious individual that happens to be interested in the state-of-the-art research on deep learning and neural networks. My work here is simply an exploratory process to gain a deeper understanding on the neural networks on a more technical level. When I am stuck with any parts of the code, I seek advise from various forums, platforms and even Large Language Models to fix the bug just like any other person would.
+
+P.S. If you find any parts of my code not optimal, kindly send a pull request with your explanations (because I would like to learn from you as well! 🥹)
+
 ---
 
 ## File Structure
