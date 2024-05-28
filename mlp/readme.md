@@ -14,7 +14,7 @@ In this implementation of the MLP, I generated synthetic data with a defined pol
 
 ## Overview
 
-The MLP is a class of feedforward artificial neural network (ANN). It consists of at least three layers of nodes: an input layer, a hidden layer, and an output layer. Each node, except for the input nodes, is a neuron that uses a nonlinear activation function.
+The MLP is a class of feedforward artificial neural network. It consists of at least three layers of nodes: an input layer, a hidden layer, and an output layer. Each node, except for the input nodes, is a neuron that uses a nonlinear activation function.
 
 The MLP is one of the "entry-level" introduction to deep learning where one is introduced to the idea of a neural network.
 
@@ -43,7 +43,7 @@ python main.py
 ```
 
 **Note**:
-- Do make sure you have your own virtual environment set up and the dependencies are installed - see (README.md)[https://github.com/SausageMuffins/Deeper-Learning-With-Pytorch/blob/main/README.md]
+- Do make sure you have your own virtual environment set up and the dependencies are installed - see [here](https://github.com/SausageMuffins/Deeper-Learning-With-Pytorch).
 - Do make sure that you are in the correct directory. If you type ls in the command, you should see main.py as one of the items.
 
 ---
